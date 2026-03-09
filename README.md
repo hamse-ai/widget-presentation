@@ -24,4 +24,4 @@ Controls the point the widget rotates around. By default it rotates around the c
 
 ## Screenshot
 
-![App Screenshot](demosSreenshot.png)
+![App Screenshot](demoScreenshot.png)
